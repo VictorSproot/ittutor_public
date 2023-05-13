@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /captcha/
+Disallow: /accounts/
+Disallow: /admin/
+Host: https://ittutor.ru/
