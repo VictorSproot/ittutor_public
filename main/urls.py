@@ -40,4 +40,4 @@ urlpatterns = [
     path('<str:page>/', other_page, name='other'),
     path('', index, name='index'),
     path('robot/', robot_txt, name='robot_txt'),
-
+]
